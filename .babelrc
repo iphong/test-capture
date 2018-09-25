@@ -1,0 +1,38 @@
+{
+  "plugins": [
+    "transform-decorators-legacy",
+    "syntax-dynamic-import",
+    "transform-class-properties",
+    [
+      "transform-object-rest-spread",
+      {
+        "useBuiltIns": true
+      }
+    ]
+  ],
+  "presets": [
+    "react",
+    "flow"
+  ],
+  "env": {
+    "development": {
+      "plugins": [
+        "remove-webpack"
+      ]
+    },
+    "production": {
+      "comments": false,
+      "plugins": [
+        ["transform-runtime", {
+          "helpers": false,
+          "polyfill": false
+        }],
+        "transform-decorators-legacy",
+        "transform-class-properties"
+      ],
+      "presets": [
+        ["env", { "modules": false }]
+      ]
+    }
+  }
+}

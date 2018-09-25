@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+export DISPLAY=:0
+export VNC=5900
+export WEB=80
+
+vncserver -kill :0
+vncserver :0 -nocursor -noclipboard -pixelformat "BGR888"
+
+node server

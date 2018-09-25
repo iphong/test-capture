@@ -1,0 +1,357 @@
+module.exports = {
+	cookies: [
+		{
+			name: '__utmb',
+			value: '1.1.10.1527236588',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527238390,
+			size: 23,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '__utmt',
+			value: '1',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527237190,
+			size: 7,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '__utmc',
+			value: '1',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: -1,
+			size: 7,
+			httpOnly: false,
+			secure: false,
+			session: true
+		},
+		{
+			name: '__utma',
+			value: '1.1757411316.1527236588.1527236588.1527236588.1',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1590308590,
+			size: 53,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_sa_t',
+			value: '2018-05-25T08%3A23%3A08.305Z',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 41,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '__ssid',
+			value: 'e0e91915-b570-4bf4-9e7a-841e64f60def',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1896109200,
+			size: 42,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_ga',
+			value: 'GA1.2.1757411316.1527236588',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1590308588,
+			size: 30,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: 'oauth-loop-detector-f85ee597169457da8ee70b6652cae768',
+			value: '1',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1527236637.316027,
+			size: 53,
+			httpOnly: true,
+			secure: true,
+			session: false
+		},
+		{
+			name: '_secure_admin_session_id',
+			value: '0f054541ea06174ddaed74e8d9f098b8',
+			domain: 'iphong.myshopify.com',
+			path: '/admin',
+			expires: 1535185376.884337,
+			size: 56,
+			httpOnly: true,
+			secure: true,
+			session: false
+		},
+		{
+			name: '_ab',
+			value: '1',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1590394976.884359,
+			size: 4,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_s',
+			value: '9664901d-213B-4D36-E002-2E9E252B6E71',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 38,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_sa_p',
+			value: '',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 13,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_fs',
+			value: '2018-05-25T08%3A22%3A40.780Z',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1589444588,
+			size: 39,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_master_udr',
+			value:
+				'BAhJIik1MWMwNmRhZC03NWIzLTQxOGQtYjUyNi00YTUxNDdhMzkwMWUGOgZFRg%3D%3D--d17aeabbcf7f4c3fcb1d1cddd2ac72198450a497',
+			domain: '.myshopify.com',
+			path: '/admin',
+			expires: 1590394959.956362,
+			size: 121,
+			httpOnly: true,
+			secure: true,
+			session: false
+		},
+		{
+			name: '_shopify_s',
+			value: '9664901d-213B-4D36-E002-2E9E252B6E71',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 46,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_s',
+			value: '9664901d-213B-4D36-E002-2E9E252B6E71',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 46,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_fs',
+			value: '2018-05-25T08%3A22%3A40.780Z',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1589444588,
+			size: 39,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_s',
+			value: '9664901d-213B-4D36-E002-2E9E252B6E71',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 38,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: 'new_admin',
+			value: '1',
+			domain: 'iphong.myshopify.com',
+			path: '/admin',
+			expires: 1842855779.429401,
+			size: 10,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '__utmz',
+			value: '1.1527236588.1.1.utmcsr=apps.pagefly.io|utmccn=(referral)|utmcmd=referral|utmcct=/',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1543004590,
+			size: 88,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_y',
+			value: '96648fcb-F1C7-49D4-E5A5-7EEE7DDC3ECE',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1589444588,
+			size: 46,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_landing_page',
+			value: '%2Fadmin%2Fauth%2Flogin',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1528446159.956672,
+			size: 36,
+			httpOnly: true,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_y',
+			value: '96648fcb-F1C7-49D4-E5A5-7EEE7DDC3ECE',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1589444588,
+			size: 38,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_y',
+			value: '96648fcb-F1C7-49D4-E5A5-7EEE7DDC3ECE',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1589444588,
+			size: 38,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_y',
+			value: '96648fcb-F1C7-49D4-E5A5-7EEE7DDC3ECE',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1589444588,
+			size: 46,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_shopify_sa_t',
+			value: '2018-05-25T08%3A23%3A08.305Z',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 41,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: 'koa.sid.sig',
+			value: 'iWcu4Nor6uUCDbXn2M1OlGN_vJ8',
+			domain: 'iphong.myshopify.com',
+			path: '/admin',
+			expires: 1528446181.397782,
+			size: 38,
+			httpOnly: true,
+			secure: true,
+			session: false
+		},
+		{
+			name: '_orig_referrer',
+			value: 'https%3A%2F%2Fapps.pagefly.io%2F',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1528446159.956863,
+			size: 46,
+			httpOnly: true,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_gid',
+			value: 'GA1.2.508957821.1527236588',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527322988,
+			size: 30,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: '_gat',
+			value: '1',
+			domain: '.myshopify.com',
+			path: '/',
+			expires: 1527236650,
+			size: 5,
+			httpOnly: false,
+			secure: false,
+			session: false
+		},
+		{
+			name: 'koa.sid',
+			value: 'WXf6X89mUZjgjcCtE-gqYvj-zZzOGek-',
+			domain: 'iphong.myshopify.com',
+			path: '/admin',
+			expires: 1528446181.397836,
+			size: 39,
+			httpOnly: true,
+			secure: true,
+			session: false
+		},
+		{
+			name: '_shopify_sa_p',
+			value: '',
+			domain: 'iphong.myshopify.com',
+			path: '/',
+			expires: 1527238388,
+			size: 13,
+			httpOnly: false,
+			secure: false,
+			session: false
+		}
+	]
+}
